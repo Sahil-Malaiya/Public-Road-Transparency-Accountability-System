@@ -134,9 +134,11 @@ This ensures transparency and builds trust between the citizen and the administr
 ## 🏗️ Setup Instructions  
 
 ### 🔹 1. Clone the Repository  
-```bash
 git clone https://github.com/Sahil-Malaiya/Public-Road-Transparency-System.git
 cd Public-Road-Transparency-System
+
+
+
 ### 🔹 2. Backend Setup (Spring Boot)
 
 Open the project in IntelliJ IDEA or VS Code
@@ -159,7 +161,7 @@ Run the application:
 mvn spring-boot:run
 Backend will run on http://localhost:8080
 
-🖥️ Frontend Pages (Planned UI Flow)
+### 🖥️ Frontend Pages (Planned UI Flow)
 1. Home Page
 
 Overview of the platform and purpose
@@ -188,7 +190,7 @@ Complaint summary and graph analytics
 
 Project purpose and creator information
 
-🔮 Future Enhancements
+### 🔹🔮 Future Enhancements
 
 OTP verification before complaint submission
 
@@ -200,7 +202,7 @@ Multi-language support (English, Hindi)
 
 Role-based login system (Admin / User)
 
-🧠 Learnings
+### 🔹🧠 Learnings
 
 During this project, I strengthened my understanding of:
 
@@ -214,7 +216,7 @@ Frontend-backend communication using JSON APIs
 
 Full-stack development workflow from scratch
 
-👨‍💻 Author
+### 🔹👨‍💻 Author
 
 Name: Sahil Malaiya
 Email: sahilmalaiya7@gmail.com
@@ -223,11 +225,11 @@ LinkedIn: linkedin.com/in/sahil-malaiya-0466a4252
 
 GitHub: github.com/Sahil-Malaiya
 
-Conclusion
+### 🔹Conclusion
 
 Public Road Transparency & Accountability System is a step towards open governance and citizen participation.
 It brings government data closer to the people and helps identify gaps in infrastructure development.
 
 By combining technology with accountability, this system makes sure that every rupee spent on public works is visible and traceable.
 
-                                                                                   "Transparency isn’t just a word — it’s a responsibility."
+### 🔹 "Transparency isn’t just a word, it’s a responsibility."
